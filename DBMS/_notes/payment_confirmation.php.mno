@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_payment_details" value="name:id;datatype:int,name:tax;datatype:real" />
+	<infoitem key="UD_payment_status_get" value="name:payment_status;datatype:string" />
+</info>

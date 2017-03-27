@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:end_year;datatype:int,name:no_of_users_registered;datatype:int,name:no_of_paid_users;datatype:int,name:no_of_unpaid_users;datatype:int,name:total_tax_amt_recieved;datatype:real,name:highest_tax_amt;datatype:real" />
+</info>

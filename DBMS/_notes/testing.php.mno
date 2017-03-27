@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:salary;datatype:real,name:HRA;datatype:real,name:medical_expense;datatype:real,name:housing_loan;datatype:real,name:capital_gains;datatype:real,name:agricultural_income;datatype:real,name:other_income;datatype:real" />
+	<infoitem key="UD_login_find" value="name:id;datatype:int" />
+</info>

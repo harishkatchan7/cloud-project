@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_total_users" value="name:count(*);datatype:int" />
+	<infoitem key="UD_paid_users" value="name:count(*);datatype:int" />
+	<infoitem key="UD_yet_to_pay_users" value="name:count(*);datatype:int" />
+</info>
